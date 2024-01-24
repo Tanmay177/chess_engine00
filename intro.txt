@@ -1,0 +1,1 @@
+This is a project taken up by Tanmay Patel and Manthan Patel. They have set out to create their own chess engine in Python. Which will be recreated in C++ for further optimisations , as and when needed.
